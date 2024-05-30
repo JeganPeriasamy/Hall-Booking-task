@@ -1,0 +1,62 @@
+{
+  "seats": 50,
+  "amenities": ["Projector", "Whiteboard"],
+  "pricePerHour": 100.00
+}
+
+{
+  "seats": 30,
+  "amenities": ["Music System", "DJ"],
+  "pricePerHour": 400.00
+}
+
+{
+  "seats": 20,
+  "amenities": ["Party Hall", "Bar"],
+  "pricePerHour": 500.00
+}
+
+
+
+{
+  "customerName": "Alice",
+  "date": "2024-05-15",
+  "startTime": "10:00",
+  "endTime": "12:00",
+  "roomId": 1
+}
+
+{
+  "customerName": "Karthi",
+  "date": "2024-05-15",
+  "startTime": "12:00",
+  "endTime": "14:00",
+  "roomId": 2
+}
+
+{
+  "customerName": "Gowtham",
+  "date": "2024-05-15",
+  "startTime": "10:00",
+  "endTime": "12:00",
+  "roomId": 3
+}
+
+{
+  "customerName": "Kishore",
+  "date": "2024-05-15",
+  "startTime": "12:00",
+  "endTime": "14:00",
+  "roomId": 3
+}
+
+
+Error Data:  
+
+{
+  "customerName": "Kavin",
+  "date": "2024-05-15",
+  "startTime": "12:00",
+  "endTime": "14:00",
+  "roomId": 3
+}
