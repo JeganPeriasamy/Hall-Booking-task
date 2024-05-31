@@ -4,6 +4,8 @@
 -- Specific : Booking app will not allow booking an already booked room on the same date and                   time 
 
 
+https://documenter.getpostman.com/view/34780783/2sA3Qv8qWP#09fb481b-50dd-4e04-80ad-934cd8be64e2  
+
 note:
 -- Use JSON FILE DATA 
 
